@@ -11,7 +11,7 @@ For this project, you’ll create a 90-second audio collage using Audacity that 
 [http://mmp.bmcc.cuny.edu/diego.gutierrez/spring-2018/mmp-100/project-3/](http://mmp.bmcc.cuny.edu/diego.gutierrez/spring-2018/mmp-100/project-3/)
 
 ### Description
-a-lifes-journey is a story about my life and the experiences I had in the process of living it.
+A Life’s Journey is a story about my life and the experiences I had in the process of living it.
 
 ## Rules
 * **Do not** add or remove any files to this repo.
